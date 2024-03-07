@@ -59,8 +59,8 @@ def image_to_svg(input_image_path, output_svg_path, line_length=5):
 
 
 # import and export location
-input_image_path = r"C:\Users\rytha\Desktop\New folder\input_image\WhatsApp Image 2023-11-27 at 3.52.34 PM.jpeg" # import location
-output_svg_path = r"C:\Users\rytha\Desktop\New folder\output_gcodes\output_curved_lines_a4.svg" # export location
+input_image_path = r"C:\Users\rytha\Desktop\image to svg\input_image\WhatsApp Image 2023-11-27 at 3.52.34 PM.jpeg" # import location
+output_svg_path = r"C:\Users\rytha\Desktop\image to svg\output_gcodes\output_curved_lines_a4_1.svg" # export location
 image_to_svg(input_image_path, output_svg_path)
 print("DONE! CHECK THE SVG FILE.")
 
