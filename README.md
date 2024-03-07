@@ -6,7 +6,6 @@ Converts raster images to SVG format.
 Utilizes bezier curves to connect nearby pixels, creating smooth and visually appealing paths.
 A4 size output with customizable line length for control over the level of detail.
 Easily adjustable parameters for customization based on your input image.
-
 Usage
 Install the required dependencies:
 Copy code
@@ -16,4 +15,4 @@ Run the script to generate the SVG file.
 Feel free to explore and modify the code to suit your specific needs. Create stunning vector representations of your images effortlessly!
 
 
- 
+
