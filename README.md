@@ -1,4 +1,4 @@
-![output example](https://github.com/Bhomik04/image-to-svg/assets/110253138/c91a36bf-9780-4ab0-a1c9-14a30854f0d9)
+
 
 
 # Image to SVG Converter
@@ -29,6 +29,8 @@ Set the input image path and output SVG path in the script.
 Run the script to generate the SVG file.
 
 Feel free to explore and modify the code to suit your specific needs. Create stunning vector representations of your images effortlessly!
+
+![output example](https://github.com/Bhomik04/image-to-svg/assets/110253138/c91a36bf-9780-4ab0-a1c9-14a30854f0d9)
 
 
 
