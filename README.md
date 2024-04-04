@@ -1,12 +1,12 @@
 ![output example](https://github.com/Bhomik04/image-to-svg/assets/110253138/c91a36bf-9780-4ab0-a1c9-14a30854f0d9)
 
 
-Image to SVG Converter
+# Image to SVG Converter
 
 
 Convert raster images (such as JPEG or PNG) into scalable vector graphics (SVG) using Python. This script uses the Python Imaging Library (PIL) and the svgwrite library to create SVG files with curved lines connecting nearby pixels, producing a visually appealing vector representation of the input image.
 
-Features:
+# Features:
 
 
 .Converts raster images to SVG format.
@@ -18,7 +18,7 @@ Features:
 .Easily adjustable parameters for customization based on your input image.
 
 
-Usage:
+# Usage:
 
 Install the required dependencies:
 
